@@ -125,8 +125,6 @@
 <p align="center">Wanna Know me More?</p>
 
 <p align="center">
-
         <a href="https://www.linkedin.com/in/anasahmed700/" target="_blank">
                 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn" /></a>
-
 </p>
