@@ -41,6 +41,7 @@
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
                         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"
                         width="40" height="40" />
+        </a>
                 <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img
                                 src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
                                 alt="ant-design" width="40" height="40" /> </a> &nbsp; &nbsp;
