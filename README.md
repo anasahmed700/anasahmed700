@@ -10,19 +10,19 @@
 👋 Hey there! I'm Anas Ahmed, a self-taught developer passionate about web and app development. I thrive on learning new technologies, writing clean code, and solving complex problems.
 
 ### 💻 What I Do:
-🚀 Building scalable web & mobile applications
-🏗️ Crafting backend solutions with PHP & Laravel
-📊 Managing SQL databases like a pro
-🔍 Exploring frontend frameworks & AI technologies
+- 🚀 Building scalable web & mobile applications
+- 🏗️ Crafting backend solutions with PHP & Laravel
+- 📊 Managing SQL databases like a pro
+- 🔍 Exploring frontend frameworks & AI technologies
 ### 🎯 Goals:
 Continuously improve as a developer
 Share knowledge through teaching & mentorship
 Build innovative projects that make an impact
 ### 💌 Fun Facts:
-🍕 Love food but can't cook (yet! 😅)
-🎮 Gaming is my daily therapy
-📝 Writing words & compiling code – my favorite mix!
-📫 Let's connect: [anasahmed700@gmail.com](mailto:anasahmed700@gmail.com)
+- 🍕 Love food but can't cook (yet! 😅)
+- 🎮 Gaming is my daily therapy
+- 📝 Writing words & compiling code – my favorite mix!
+- 📫 Let's connect: [anasahmed700@gmail.com](mailto:anasahmed700@gmail.com)
 
 <br>
 
