@@ -66,6 +66,8 @@ Build innovative projects that make an impact
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> 
     </a> &nbsp; &nbsp;
+    <br />
+    <br />
     <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> 
     </a> &nbsp; &nbsp;
