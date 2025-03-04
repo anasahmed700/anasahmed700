@@ -41,10 +41,10 @@ Build innovative projects that make an impact
     </a> &nbsp; &nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> 
-    </a> &nbsp;
+    </a> &nbsp; &nbsp;
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-    </a>
+    </a> &nbsp; &nbsp;
     <br />
     <br />
     <!-- Backend Technologies -->
@@ -59,7 +59,7 @@ Build innovative projects that make an impact
     </a> &nbsp; &nbsp;
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40" />
-    </a>
+    </a> &nbsp; &nbsp;
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> 
     </a> &nbsp; &nbsp;
@@ -68,10 +68,10 @@ Build innovative projects that make an impact
     </a> &nbsp; &nbsp;
     <br />
     <br />
+    <!-- Databases -->
     <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> 
     </a> &nbsp; &nbsp;
-    <!-- Databases -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
     </a> &nbsp; &nbsp;
